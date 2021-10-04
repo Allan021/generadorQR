@@ -1,0 +1,15 @@
+{
+  "QR_section": {
+    "QrTitle": "Generate Downloads an scan QR codes with ReactJs",
+    "QrTitleWebCam": "Scan Qr code with WebCam",
+    "QrcodeText": "Scan Qr code with File",
+    "QrcodeWebCam": "Scan Qr code with WebCam"
+  },
+
+  "QR_inputs": {
+    "TextField": "Type the Url",
+    "btnGenerate": "Generate QR Code",
+    "btnCan": "Scan QR Code",
+    "selectLabel": "Language"
+  }
+}

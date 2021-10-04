@@ -1,0 +1,15 @@
+{
+  "QR_section": {
+    "QrTitle": "Generar descargas y escanear codigos QR con React Js",
+    "QrTitleWebCam": "Escanear QR por WebCam",
+    "QrcodeText": "Codigo Escaneado",
+    "QrcodeTextCam": "Codigo Escaneado por Web Cam"
+  },
+
+  "QR_inputs": {
+    "TextField": "Ingresa la Url",
+    "btnGenerate": "Generar codigo Qr",
+    "btnCan": "Escanear codigo Qr",
+    "selectLabel": "Idioma"
+  }
+}
